@@ -12,7 +12,7 @@ import tifffile
 
 
 # path to single page tiff file to be converted 
-fname = 'training2_moco.tif'  
+fname = 'your_tif_file.tif'  
  # number of frames in each individual output file
 L = 4000 
 
